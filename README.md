@@ -1,2 +1,2 @@
-# web2-projekt3
-Projekt iz predmeta Napredni razvoj programske potpore za web (HTML5)
+# Simple clicking game
+Project from the course Advanced development of software support for the web (HTML5)
